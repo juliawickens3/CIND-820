@@ -39,4 +39,7 @@ No personally identifiable information is present; the data consists of aggregat
 7. **Lead-time and anticipation analysis (RQ3)** — Calculate the additional lead time needed during each event to cover actual transit time in 95% of months; test, via a leave-one-out comparison across the three events, whether an event's early trajectory can reasonably anticipate its eventual severity and duration.
 8. **Synthesis** — Produce an event-comparison table (impact size, duration, dwell contribution, anticipated lead-time buffer) as the project's primary decision-support deliverable.
 
+## EDA Report
+
+- [EDA Report (HTML)](reports/CIND 820 Data Profiling.html)
 
